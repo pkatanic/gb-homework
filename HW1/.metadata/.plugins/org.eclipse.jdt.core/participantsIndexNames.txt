@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+D:\My Documents\JavaGeekBrains\JavaEE\HW1\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2576721826.index
+\HWServletApps\src\main\resources
+D:\My Documents\JavaGeekBrains\JavaEE\HW1\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1304916841.index
+\HWServletApps\src\main\java
