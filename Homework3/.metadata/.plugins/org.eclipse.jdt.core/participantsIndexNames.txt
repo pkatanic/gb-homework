@@ -1,0 +1,7 @@
+INDEX VERSION 1.131
+D:\My Documents\JavaGeekBrains\Spring\Homework3\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\885467024.index
+\homework3\src\main\resources
+D:\My Documents\JavaGeekBrains\Spring\Homework3\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3270209573.index
+\homework3\src\main\java
+D:\My Documents\JavaGeekBrains\Spring\Homework3\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1470362741.index
+\homework3\src\main\java
