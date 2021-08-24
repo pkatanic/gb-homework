@@ -1,0 +1,28 @@
+package ru.gb.SpringProject;
+import model.Product;
+import model.ProductRepo;
+import org.springframework.stereotype.Repository;
+import javax.annotation.PostConstruct;
+
+import java.math.BigDecimal;
+import java.util.ArrayList;
+import java.util.List;
+import java.util.NoSuchElementException;
+
+public class ProductRepoBean implements ProductRepo {
+	 private List<Product> products;
+
+	    @PostConstruct
+	    public void init(){
+	        products = new ArrayList<>();
+	        products.add(new Product(123123L, "soap", BigDecimal.valueOf(110.05)));
+	        products.add(new Product(1223L, "plate", BigDecimal.valueOf(110.05)));
+	        products.add(new Product(121313123L, "fork", BigDecimal.valueOf(110.05)));
+	        System.out.println("dad");
+	    }
+
+	    @Override
+	    public List<Product> get() {
+	        return products;
+	    }
+}

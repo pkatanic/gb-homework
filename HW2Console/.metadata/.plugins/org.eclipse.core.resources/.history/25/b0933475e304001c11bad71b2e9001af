@@ -1,0 +1,7 @@
+package ru.gb.SpringProject;
+import model.ProductRepo;
+import org.springframework.stereotype.Repository;
+
+public class ProductRepoBean implements ProductRepo {
+
+}

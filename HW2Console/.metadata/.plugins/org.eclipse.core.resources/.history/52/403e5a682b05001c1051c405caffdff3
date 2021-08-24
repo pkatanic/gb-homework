@@ -1,0 +1,9 @@
+package ru.gb.SpringProject;
+
+import java.util.List;
+
+import model.Product;
+
+public interface ProductRepo {
+	List<Product> get();
+}

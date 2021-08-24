@@ -1,0 +1,13 @@
+INDEX VERSION 1.131+D:\My Documents\JavaGeekBrains\Spring\HW2Console\.metadata\.plugins\org.eclipse.jdt.core
+1192641234.index
+1652579018.index
+3213641928.index
+1716849951.index
+2777449839.index
+589888595.index
+2565356412.index
+2886517003.index
+2710944954.index
+86823639.index
+3594594271.index
+1464328577.index

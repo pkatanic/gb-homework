@@ -1,0 +1,185 @@
+2021-08-24 16:04:13,820 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-08-24 16:05:52,793 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-quickstart/1.1/maven-archetype-quickstart-1.1.jar
+2021-08-24 16:05:52,943 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-quickstart/1.1/maven-archetype-quickstart-1.1.jar
+2021-08-24 16:05:53,071 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-quickstart/1.1/maven-archetype-quickstart-1.1.pom
+2021-08-24 16:05:53,136 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-quickstart/1.1/maven-archetype-quickstart-1.1.pom
+2021-08-24 16:07:05,209 [Worker-9: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' D:\My Documents\JavaGeekBrains\Spring\HW2Console\ru.gb.SpringProject\pom.xml
+2021-08-24 16:07:17,512 [Worker-9: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ShoppingCart:ru.gb.SpringProject:0.0.1-SNAPSHOT @ D:\My Documents\JavaGeekBrains\Spring\HW2Console\ru.gb.SpringProject\pom.xml.
+2021-08-24 16:07:23,268 [Worker-9: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ru.gb.SpringProject/src/main/java
+2021-08-24 16:07:23,279 [Worker-9: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ru.gb.SpringProject/src/test/java
+2021-08-24 16:07:24,149 [Worker-9: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 18 sec
+2021-08-24 16:07:28,772 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-24 16:07:28,773 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My Documents\JavaGeekBrains\Spring\HW2Console\ru.gb.SpringProject\src\main\resources
+2021-08-24 16:07:28,775 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-24 16:07:28,776 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My Documents\JavaGeekBrains\Spring\HW2Console\ru.gb.SpringProject\src\test\resources
+2021-08-24 16:23:48,839 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-24 16:23:48,839 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My Documents\JavaGeekBrains\Spring\HW2Console\ru.gb.SpringProject\src\main\resources
+2021-08-24 16:23:48,844 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-24 16:23:48,844 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My Documents\JavaGeekBrains\Spring\HW2Console\ru.gb.SpringProject\src\test\resources
+2021-08-24 16:30:02,464 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-24 16:30:02,465 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My Documents\JavaGeekBrains\Spring\HW2Console\ru.gb.SpringProject\src\main\resources
+2021-08-24 16:30:02,470 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-24 16:30:02,471 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My Documents\JavaGeekBrains\Spring\HW2Console\ru.gb.SpringProject\src\test\resources
+2021-08-24 16:30:24,172 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-24 16:30:24,173 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My Documents\JavaGeekBrains\Spring\HW2Console\ru.gb.SpringProject\src\main\resources
+2021-08-24 16:30:24,177 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-24 16:30:24,179 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My Documents\JavaGeekBrains\Spring\HW2Console\ru.gb.SpringProject\src\test\resources
+2021-08-24 16:32:12,546 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-24 16:32:12,547 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My Documents\JavaGeekBrains\Spring\HW2Console\ru.gb.SpringProject\src\main\resources
+2021-08-24 16:32:12,550 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-24 16:32:12,550 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My Documents\JavaGeekBrains\Spring\HW2Console\ru.gb.SpringProject\src\test\resources
+2021-08-24 16:33:08,753 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-24 16:33:08,786 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My Documents\JavaGeekBrains\Spring\HW2Console\ru.gb.SpringProject\src\main\resources
+2021-08-24 16:33:08,801 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-24 16:33:08,803 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My Documents\JavaGeekBrains\Spring\HW2Console\ru.gb.SpringProject\src\test\resources
+2021-08-24 16:33:38,897 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-24 16:33:38,898 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My Documents\JavaGeekBrains\Spring\HW2Console\ru.gb.SpringProject\src\main\resources
+2021-08-24 16:33:38,900 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-24 16:33:38,901 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My Documents\JavaGeekBrains\Spring\HW2Console\ru.gb.SpringProject\src\test\resources
+2021-08-24 16:39:01,691 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-24 16:39:01,692 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My Documents\JavaGeekBrains\Spring\HW2Console\ru.gb.SpringProject\src\main\resources
+2021-08-24 16:39:01,698 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-24 16:39:01,699 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My Documents\JavaGeekBrains\Spring\HW2Console\ru.gb.SpringProject\src\test\resources
+2021-08-24 16:46:16,008 [Worker-28: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ShoppingCart:ru.gb.SpringProject:0.0.1-SNAPSHOT @ D:\My Documents\JavaGeekBrains\Spring\HW2Console\ru.gb.SpringProject\pom.xml.
+2021-08-24 16:46:16,481 [Worker-28: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/${spring.version}/spring-webmvc-${spring.version}.pom
+2021-08-24 16:46:16,487 [Worker-28: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:spring-webmvc:jar:${spring.version} is missing, no dependency information available
+2021-08-24 16:46:16,596 [Worker-28: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/${spring.version}/spring-webmvc-${spring.version}.jar
+2021-08-24 16:46:17,950 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-24 16:46:17,951 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My Documents\JavaGeekBrains\Spring\HW2Console\ru.gb.SpringProject\src\main\resources
+2021-08-24 16:46:17,954 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-24 16:46:17,955 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My Documents\JavaGeekBrains\Spring\HW2Console\ru.gb.SpringProject\src\test\resources
+2021-08-24 16:46:18,380 [Worker-29: Download sources and javadoc] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:spring-webmvc:jar:${spring.version} is missing, no dependency information available
+2021-08-24 16:46:18,563 [Worker-29: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/${spring.version}/spring-webmvc-${spring.version}-sources.jar
+2021-08-24 16:46:18,661 [Worker-29: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for org.springframework:spring-webmvc:${spring.version}
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springframework:spring-webmvc:jar:sources:${spring.version}
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:763) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:731) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:708) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:279) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:254) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:221) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob$1.call(DownloadSourcesJob.java:137) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob$1.call(DownloadSourcesJob.java:1) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1336) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:135) ~[na:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.10.300.v20190215-2048.jar:na]
+2021-08-24 16:46:19,898 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-24 16:46:19,898 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My Documents\JavaGeekBrains\Spring\HW2Console\ru.gb.SpringProject\src\main\resources
+2021-08-24 16:46:19,900 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-24 16:46:19,901 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My Documents\JavaGeekBrains\Spring\HW2Console\ru.gb.SpringProject\src\test\resources
+2021-08-24 16:47:03,610 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-24 16:47:03,611 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My Documents\JavaGeekBrains\Spring\HW2Console\ru.gb.SpringProject\src\main\resources
+2021-08-24 16:47:03,613 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-24 16:47:03,614 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My Documents\JavaGeekBrains\Spring\HW2Console\ru.gb.SpringProject\src\test\resources
+2021-08-24 16:48:29,635 [Worker-30: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ShoppingCart:ru.gb.SpringProject:0.0.1-SNAPSHOT @ D:\My Documents\JavaGeekBrains\Spring\HW2Console\ru.gb.SpringProject\pom.xml.
+2021-08-24 16:48:31,463 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-24 16:48:31,463 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My Documents\JavaGeekBrains\Spring\HW2Console\ru.gb.SpringProject\src\main\resources
+2021-08-24 16:48:31,467 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-24 16:48:31,468 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My Documents\JavaGeekBrains\Spring\HW2Console\ru.gb.SpringProject\src\test\resources
+2021-08-24 16:48:33,434 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-24 16:48:33,435 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My Documents\JavaGeekBrains\Spring\HW2Console\ru.gb.SpringProject\src\main\resources
+2021-08-24 16:48:33,438 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-24 16:48:33,438 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My Documents\JavaGeekBrains\Spring\HW2Console\ru.gb.SpringProject\src\test\resources
+2021-08-24 16:52:49,577 [Worker-32: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ShoppingCart:ru.gb.SpringProject:0.0.1-SNAPSHOT @ D:\My Documents\JavaGeekBrains\Spring\HW2Console\ru.gb.SpringProject\pom.xml.
+2021-08-24 16:52:50,745 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-24 16:52:50,746 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My Documents\JavaGeekBrains\Spring\HW2Console\ru.gb.SpringProject\src\main\resources
+2021-08-24 16:52:50,748 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-24 16:52:50,749 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My Documents\JavaGeekBrains\Spring\HW2Console\ru.gb.SpringProject\src\test\resources
+2021-08-24 16:54:49,930 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-24 16:54:49,931 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My Documents\JavaGeekBrains\Spring\HW2Console\ru.gb.SpringProject\src\main\resources
+2021-08-24 16:54:49,933 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-24 16:54:49,933 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My Documents\JavaGeekBrains\Spring\HW2Console\ru.gb.SpringProject\src\test\resources
+2021-08-24 16:57:58,648 [Worker-34: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ShoppingCart:ru.gb.SpringProject:0.0.1-SNAPSHOT @ D:\My Documents\JavaGeekBrains\Spring\HW2Console\ru.gb.SpringProject\pom.xml.
+2021-08-24 16:57:59,178 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-24 16:57:59,179 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My Documents\JavaGeekBrains\Spring\HW2Console\ru.gb.SpringProject\src\main\resources
+2021-08-24 16:57:59,181 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-24 16:57:59,182 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My Documents\JavaGeekBrains\Spring\HW2Console\ru.gb.SpringProject\src\test\resources
+2021-08-24 16:59:12,503 [Worker-32: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ShoppingCart:ru.gb.SpringProject:0.0.1-SNAPSHOT @ D:\My Documents\JavaGeekBrains\Spring\HW2Console\ru.gb.SpringProject\pom.xml.
+2021-08-24 16:59:12,916 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-24 16:59:12,917 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My Documents\JavaGeekBrains\Spring\HW2Console\ru.gb.SpringProject\src\main\resources
+2021-08-24 16:59:12,921 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-24 16:59:12,922 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My Documents\JavaGeekBrains\Spring\HW2Console\ru.gb.SpringProject\src\test\resources
+2021-08-24 16:59:14,853 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-24 16:59:14,854 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My Documents\JavaGeekBrains\Spring\HW2Console\ru.gb.SpringProject\src\main\resources
+2021-08-24 16:59:14,856 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-24 16:59:14,857 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My Documents\JavaGeekBrains\Spring\HW2Console\ru.gb.SpringProject\src\test\resources
+2021-08-24 17:05:31,519 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-24 17:05:31,520 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My Documents\JavaGeekBrains\Spring\HW2Console\ru.gb.SpringProject\src\main\resources
+2021-08-24 17:05:31,522 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-24 17:05:31,522 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My Documents\JavaGeekBrains\Spring\HW2Console\ru.gb.SpringProject\src\test\resources
+2021-08-24 17:14:02,964 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-24 17:14:02,967 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My Documents\JavaGeekBrains\Spring\HW2Console\ru.gb.SpringProject\src\main\resources
+2021-08-24 17:14:02,971 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-24 17:14:02,972 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My Documents\JavaGeekBrains\Spring\HW2Console\ru.gb.SpringProject\src\test\resources
+2021-08-24 17:28:14,843 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-24 17:28:14,844 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My Documents\JavaGeekBrains\Spring\HW2Console\ru.gb.SpringProject\src\main\resources
+2021-08-24 17:28:14,873 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-24 17:28:14,874 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My Documents\JavaGeekBrains\Spring\HW2Console\ru.gb.SpringProject\src\test\resources
+2021-08-24 17:37:13,272 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-24 17:37:13,272 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My Documents\JavaGeekBrains\Spring\HW2Console\ru.gb.SpringProject\src\main\resources
+2021-08-24 17:37:13,274 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-24 17:37:13,275 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My Documents\JavaGeekBrains\Spring\HW2Console\ru.gb.SpringProject\src\test\resources
+2021-08-24 17:38:28,524 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-24 17:38:28,525 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My Documents\JavaGeekBrains\Spring\HW2Console\ru.gb.SpringProject\src\main\resources
+2021-08-24 17:38:28,526 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-24 17:38:28,527 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My Documents\JavaGeekBrains\Spring\HW2Console\ru.gb.SpringProject\src\test\resources
+2021-08-24 17:40:04,087 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-24 17:40:04,087 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My Documents\JavaGeekBrains\Spring\HW2Console\ru.gb.SpringProject\src\main\resources
+2021-08-24 17:40:04,090 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-24 17:40:04,091 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My Documents\JavaGeekBrains\Spring\HW2Console\ru.gb.SpringProject\src\test\resources
+2021-08-24 23:09:33,659 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-08-25 01:09:24,454 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 01:09:24,485 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My Documents\JavaGeekBrains\Spring\HW2Console\ru.gb.SpringProject\src\main\resources
+2021-08-25 01:09:24,485 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 01:09:24,485 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My Documents\JavaGeekBrains\Spring\HW2Console\ru.gb.SpringProject\src\test\resources
+2021-08-25 01:17:02,994 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 01:17:03,055 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My Documents\JavaGeekBrains\Spring\HW2Console\ru.gb.SpringProject\src\main\resources
+2021-08-25 01:17:03,066 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 01:17:03,066 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My Documents\JavaGeekBrains\Spring\HW2Console\ru.gb.SpringProject\src\test\resources
+2021-08-25 01:17:31,136 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 01:17:31,136 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My Documents\JavaGeekBrains\Spring\HW2Console\ru.gb.SpringProject\src\main\resources
+2021-08-25 01:17:31,139 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 01:17:31,139 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My Documents\JavaGeekBrains\Spring\HW2Console\ru.gb.SpringProject\src\test\resources
+2021-08-25 01:18:32,389 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 01:18:32,389 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My Documents\JavaGeekBrains\Spring\HW2Console\ru.gb.SpringProject\src\main\resources
+2021-08-25 01:18:32,389 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 01:18:32,389 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My Documents\JavaGeekBrains\Spring\HW2Console\ru.gb.SpringProject\src\test\resources
+2021-08-25 01:19:07,451 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 01:19:07,451 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My Documents\JavaGeekBrains\Spring\HW2Console\ru.gb.SpringProject\src\main\resources
+2021-08-25 01:19:07,466 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 01:19:07,466 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My Documents\JavaGeekBrains\Spring\HW2Console\ru.gb.SpringProject\src\test\resources
+2021-08-25 01:19:23,024 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 01:19:23,040 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My Documents\JavaGeekBrains\Spring\HW2Console\ru.gb.SpringProject\src\main\resources
+2021-08-25 01:19:23,040 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 01:19:23,040 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My Documents\JavaGeekBrains\Spring\HW2Console\ru.gb.SpringProject\src\test\resources
+2021-08-25 01:19:57,829 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 01:19:57,829 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My Documents\JavaGeekBrains\Spring\HW2Console\ru.gb.SpringProject\src\main\resources
+2021-08-25 01:19:57,829 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 01:19:57,844 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My Documents\JavaGeekBrains\Spring\HW2Console\ru.gb.SpringProject\src\test\resources
+2021-08-25 01:32:40,248 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 01:32:40,249 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My Documents\JavaGeekBrains\Spring\HW2Console\ru.gb.SpringProject\src\main\resources
+2021-08-25 01:32:40,253 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 01:32:40,254 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My Documents\JavaGeekBrains\Spring\HW2Console\ru.gb.SpringProject\src\test\resources
+2021-08-25 01:34:06,320 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 01:34:06,320 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My Documents\JavaGeekBrains\Spring\HW2Console\ru.gb.SpringProject\src\main\resources
+2021-08-25 01:34:06,329 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 01:34:06,330 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My Documents\JavaGeekBrains\Spring\HW2Console\ru.gb.SpringProject\src\test\resources
+2021-08-25 01:34:14,115 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 01:34:14,116 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My Documents\JavaGeekBrains\Spring\HW2Console\ru.gb.SpringProject\src\main\resources
+2021-08-25 01:34:14,124 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 01:34:14,125 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My Documents\JavaGeekBrains\Spring\HW2Console\ru.gb.SpringProject\src\test\resources
+2021-08-25 01:34:19,859 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 01:34:19,860 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My Documents\JavaGeekBrains\Spring\HW2Console\ru.gb.SpringProject\src\main\resources
+2021-08-25 01:34:19,863 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 01:34:19,864 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My Documents\JavaGeekBrains\Spring\HW2Console\ru.gb.SpringProject\src\test\resources
+2021-08-25 01:37:12,635 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 01:37:12,636 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My Documents\JavaGeekBrains\Spring\HW2Console\ru.gb.SpringProject\src\main\resources
+2021-08-25 01:37:12,638 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 01:37:12,639 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My Documents\JavaGeekBrains\Spring\HW2Console\ru.gb.SpringProject\src\test\resources
